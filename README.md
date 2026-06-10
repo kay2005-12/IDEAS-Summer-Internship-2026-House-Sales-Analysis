@@ -24,7 +24,6 @@ The objective of this project is to analyze house sales data, perform data prepr
 - Pandas
 - NumPy
 - Scikit-learn
-- Matplotlib
 
 ### Project Tasks
 1. Data Loading and Inspection
@@ -39,7 +38,7 @@ The objective of this project is to analyze house sales data, perform data prepr
 10. Clustering Evaluation using F1 Score and Confusion Matrix
 
 ### Results
-- Linear Regression R² Score: ~0.50
+- Linear Regression R² Score: ~0.60
 - K-Means Clustering F1 Score: ~0.87
 
 ### Repository Contents
